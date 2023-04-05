@@ -9,16 +9,11 @@
 </a>  
   
 
-
-
-### Glad to see you here!  
 I’m a full-stack developer who has turned years of freelancing into a full-time career.  
   
 
 <br/>  
 
-
-## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 - 🌱 I’m currently learning React and React Native  
