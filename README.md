@@ -16,7 +16,7 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 
 <table><tr><td valign="top" width="50%">
 
-- 🌱 I’m currently learning React and React Native  
+- 🌱 I’m currently learning React Native  
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
